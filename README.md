@@ -7,6 +7,7 @@ The Horiseon landing page is not SEO friendly or accessbile to visitors who may 
 ## Credits
 
 The following resources were used in order to ensure semantic HTML and CSS:
+
 [W3 HTML Validator](https://validator.w3.org/)
 
 [W3 CSS Validator](http://jigsaw.w3.org/css-validator/)
