@@ -13,3 +13,7 @@ The following resources were used in order to ensure semantic HTML and CSS:
 ## Site Link
 
 [Horiseon](https://brookescodestuff.github.io/horiseon-refactor/)
+
+## Screenshot
+
+![screenshot of Horiseon website](horiseon_screenshot.png)
